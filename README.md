@@ -1,3 +1,3 @@
 # Generator
 Generator by Gater1
-test123
+easy to use
